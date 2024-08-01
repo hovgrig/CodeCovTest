@@ -8,4 +8,7 @@ function multiply(a, b) {
 
 console.log('Hello');
 
-module.exports = sum;
+module.exports = {
+    sum,
+    multiply
+};
