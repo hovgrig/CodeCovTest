@@ -6,6 +6,6 @@ function multiply(a, b) {
     return a * b;
 }
 
-console.log(sum(1, 7));
+console.log('Hello');
 
-module.exports = sum; // Correctly export the function
+module.exports = sum;
